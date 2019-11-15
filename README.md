@@ -1,2 +1,2 @@
 # dice
-let you win in dice
+let you win in dice.
